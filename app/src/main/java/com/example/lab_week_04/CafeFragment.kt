@@ -13,6 +13,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 // TODO: Rename parameter arguments, choose names that match
 
 class CafeFragment : Fragment() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
     }
